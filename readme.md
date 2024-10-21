@@ -1,0 +1,1 @@
+Michael Luke's 2024 S PHY354 lecture notes. These lecture notes are not official by any means, and typos do exist. Several lectures also have notes that do not do them justice (in particular, lecture 4 and lecture 24).
